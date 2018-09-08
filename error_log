@@ -1,0 +1,5 @@
+[07-Aug-2018 00:33:37 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function get_header() in /home/phantha1/public_html/wp-content/themes/EasyThemeBlog/index.php on line 1
+[09-Aug-2018 15:34:50 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function get_header() in /home/phantha1/public_html/wp-content/themes/EasyThemeBlog/index.php on line 1
+[11-Aug-2018 13:04:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function get_header() in /home/phantha1/public_html/wp-content/themes/EasyThemeBlog/index.php on line 1
+[03-Sep-2018 16:13:09 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function get_header() in /home/phantha1/public_html/wp-content/themes/EasyThemeBlog/index.php on line 1
+[03-Sep-2018 16:13:11 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function get_header() in /home/phantha1/public_html/wp-content/themes/EasyThemeBlog/index.php on line 1
